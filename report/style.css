@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0 15px;
+  background-color: #d3d3d3;
+  color: #000000;
+}
+
+section {
+  background: white;
+  padding: 16px;
+  margin: 16px auto;
+  max-width: 900px;
+  border-radius: 8px;
+  border: solid 2px;
+}
+
+.title {
+  text-align: center;
+}
+
+h1, h2 {
+  color: #000000;
+}
+
+pre {
+  background-color: #eee;
+  padding: 17px;
+  overflow-x: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  margin: 16px auto;
+}
+
+footer {
+  text-align: center;
+  margin: 40px auto;
+  font-size: 0.9em;
+  color: #666;
+}
